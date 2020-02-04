@@ -187,18 +187,18 @@ class HijriCalendarService
     public function getGregorianMonths()
     {
         return [
-           1 => ['number' => 1, 'en' => 'January'],
-           2 => ['number' => 2,'en' => 'February'],
-           3 => ['number' => 3,'en' => 'March'],
-           4 => ['number' => 4,'en' => 'April'],
-           5 => ['number' => 5,'en' => 'May'],
-           6 => ['number' => 6,'en' => 'June'],
-           7 => ['number' => 7,'en' => 'July'],
-           8 => ['number' => 8,'en' => 'August'],
-           9 => ['number' => 9,'en' => 'September'],
-           10 => ['number' => 10,'en' => 'October'],
-           11 => ['number' => 11,'en' => 'November'],
-           12 => ['number' => 12,'en' => 'December']
+           1 => ['number' => 1, 'en' => 'January', 'ar' => 'يناير'],
+           2 => ['number' => 2,'en' => 'February', 'ar' => 'فبراير'],
+           3 => ['number' => 3,'en' => 'March', 'ar' => 'مارس'],
+           4 => ['number' => 4,'en' => 'April', 'ar' => 'أبريل'],
+           5 => ['number' => 5,'en' => 'May', 'ar' => 'مايو'],
+           6 => ['number' => 6,'en' => 'June', 'ar' => 'يونيو'],
+           7 => ['number' => 7,'en' => 'July', 'ar' => 'يوليو'],
+           8 => ['number' => 8,'en' => 'August', 'ar' => 'أغسطس'],
+           9 => ['number' => 9,'en' => 'September', 'ar' => 'سبتمبر'],
+           10 => ['number' => 10,'en' => 'October', 'ar' => 'أكتوبر'],
+           11 => ['number' => 11,'en' => 'November', 'ar' => 'نوفمبر'],
+           12 => ['number' => 12,'en' => 'December', 'ar' => 'ديسمبر']
         ];
     }
 
